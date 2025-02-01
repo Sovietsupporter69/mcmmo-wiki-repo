@@ -71,6 +71,17 @@ Level Requirement: 15 (150 for retro)
 
 This passive skill increases the bite chance while fishing. When you've unlocked this ability, fishing while in a boat improves odds of catching a fish.
 
+| Rank | Lvl (Retro) | Minimum reduction (s) | Maximum reduction (s) |
+| --- | --- | --- | --- |
+| 1   | 10 (100) | -0.5 | -1.5 |
+| 2   | 25 (250) | -1 | -3 |
+| 3   | 35 (350) | -1.5 | -4.5 |
+| 4   | 50 (500) | -2 | -6 |
+| 5   | 65 (650) | -2.5 | -7.5|
+| 6   | 75 (750) | -3 | -9 |
+| 7   | 85 (850) | -3.5 | -10.5 |
+| 8   | 100 (1000) | _ | _ |
+
 ## Shake
 
 Level Requirement: 15 (150)
@@ -125,4 +136,15 @@ This passive skill increases the amount of hunger restored from eating fish.
 
 Level Requirement: 20 (200 for retro)
 
-Find enchanted items while fishing.
+Find enchanted items while fishing. Bellow are the chances listed ingame.
+
+| Rank | Lvl (Retro) | Chances (%) |
+| --- | --- | --- |
+| 1   | 20 (200) | 6.12 |
+| 2   | 25 (250) | 8.62 |
+| 3   | 35 (350) | 10.4 |
+| 4   | 50 (500) | 13.4 |
+| 5   | 65 (650) | 15.1 |
+| 6   | 75 (750) | 17.5 |
+| 7   | 85 (850) | _ |
+| 8   | 100 (1000) | _ |
