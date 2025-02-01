@@ -146,5 +146,5 @@ Find enchanted items while fishing. Bellow are the chances listed ingame.
 | 4   | 50 (500) | 13.4 |
 | 5   | 65 (650) | 15.1 |
 | 6   | 75 (750) | 17.5 |
-| 7   | 85 (850) | _ |
+| 7   | 85 (850) | 20 |
 | 8   | 100 (1000) | _ |
