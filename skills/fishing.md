@@ -80,7 +80,7 @@ This passive skill increases the bite chance while fishing. When you've unlocked
 | 5   | 65 (650) | -2.5 | -7.5|
 | 6   | 75 (750) | -3 | -9 |
 | 7   | 85 (850) | -3.5 | -10.5 |
-| 8   | 100 (1000) | _ | _ |
+| 8   | 100 (1000) | -4 | -12 |
 
 ## Shake
 
@@ -147,4 +147,4 @@ Find enchanted items while fishing. Bellow are the chances listed ingame.
 | 5   | 65 (650) | 15.1 |
 | 6   | 75 (750) | 17.5 |
 | 7   | 85 (850) | 20 |
-| 8   | 100 (1000) | _ |
+| 8   | 100 (1000) | 25 |
